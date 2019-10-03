@@ -5,7 +5,7 @@
 Adicione seus repositórios favoritos e filtre suas _issues_ para colaborar ou acompanhar ;)
 Projeto desenvolvido no Bootcamp da Rocketseat
 
-![Imagem do App HelpUSRepoos-ReactJS Rodando](https://raw.githubusercontent.com/mayconfrancisco/easylist-reactjs/master/imgs/helpusrepos.gif)
+![Imagem do App HelpUSRepoos-ReactJS Rodando](https://raw.githubusercontent.com/mayconfrancisco/helpUSrepos-reactjs/master/imgs/helpusrepos.gif)
 
 
 ### Para rodar o projeto:
