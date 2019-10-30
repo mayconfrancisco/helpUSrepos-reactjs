@@ -34,3 +34,13 @@ yarn add styled-components //lidar com estilos
 yarn add react-icons //vários pacotes de icones
 
 yarn add axios // lidar com requisicoes http - melhor que o fetch do browser
+
+
+
+#### DEPLOY
+para mais detalhes verifique o deployment do create-react-app https://create-react-app.dev/docs/deployment/
+
+para dar suporte ao pushState que é a api de redirecionamento de rotas do html5, no netlify precisamos criar o arquivo public/_redirects com o seguinte conteúdo: <br/>
+/*  /index.html  200
+
+o netlify ja é CD, ou seja, ao comitar na master ele ja gera um novo build ;)
