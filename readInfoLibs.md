@@ -6,16 +6,16 @@ limpar os arquivos index, app.css... e serviceworker
 
 EditorConfig
 
-yarn add eslint -D
-yarn eslint --init
-remover o package.lock e rodar yarn novamente
+yarn add eslint -D <br />
+yarn eslint --init <br />
+remover o package.lock e rodar yarn novamente <br />
 
-yarn add -D prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
-configurar arquivo .eslintrc
-add no extends prettier e prettier/react
-add parser: 'babel-eslint' antes do parserOptions
-add prettier nos plugins
-sobreescrever as regras do airbnb:
+yarn add -D prettier eslint-config-prettier eslint-plugin-prettier babel-eslint <br />
+configurar arquivo .eslintrc <br />
+add no extends prettier e prettier/react <br />
+add parser: 'babel-eslint' antes do parserOptions <br />
+add prettier nos plugins <br />
+sobreescrever as regras do airbnb: <br />
 rules: {
   'prettier/prettier': 'error',
   'react/jsx-filename-extension': [
