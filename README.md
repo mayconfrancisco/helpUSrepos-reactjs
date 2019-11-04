@@ -17,3 +17,6 @@ _Para baixar as dependências_
 _Para iniciar a aplicação_
 
 **yarn start**
+
+
+Para testar a aplicação [Clique Aqui](https://awesome-morse-5e1f59.netlify.com/)
